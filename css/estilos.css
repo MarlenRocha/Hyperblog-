@@ -3,3 +3,9 @@
      font-family: Arial;
 
  }
+
+ .seccion{
+     color: hotpink;
+     border-style: double;
+     border-color: gray;
+ }
